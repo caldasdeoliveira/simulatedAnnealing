@@ -1,11 +1,13 @@
 # simulatedAnnealing
 
-Small implementation of simulated annealing for work in continuous functions.
+Simple Python implementation of simulated annealing for work in continuous functions.
 
 ## Usage
 
 Import function to desired file and call function: 
 	SimulatedAnnealing(cost_function)
+
+Some usage examples can be found in example.py
 
 Function Arguments:
 
