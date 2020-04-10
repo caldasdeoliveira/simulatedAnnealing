@@ -26,4 +26,14 @@ Function Arguments:
 
 * maxiter: This argument is not required but has been added as a safety measure against errors in the temperature arguments. This value indicates the maximum number of iterations to be used. Defaults to 1.000.000
 
+## References
+
+The work presented here is based on the information made publicly available in these websites
+
+https://www.youtube.com/watch?v=XNMGq5Jjs5w
+
+https://perso.crans.org/besson/publis/notebooks/Simulated_annealing_in_Python.html
+
+https://en.wikipedia.org/wiki/Simulated_annealing
+
 
